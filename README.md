@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone githublink
+    git clone https://github.com/AbdulazizWaleed-DS/Kidney-Disease-Prediction.git
     ```
 
 2. Navigate to the project directory:
