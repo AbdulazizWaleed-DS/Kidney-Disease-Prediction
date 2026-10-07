@@ -12,9 +12,6 @@ This repository contains the code for the Chronic Kidney Disease Detection Predi
 - [Models and Algorithms](#models-and-algorithms)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 
 ## Project Description
 
